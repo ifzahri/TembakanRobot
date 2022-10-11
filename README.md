@@ -1,5 +1,9 @@
 # TembakanRobot
 
+Nama        : Iftala Zahri Sukmana
+NRP         : 5025221002
+Departemen  : Teknik Informatika
+
 Program ini ditujukan untuk memenuhi KPP Programming pada ukm Robotika ITS.
 
 Link Submission : 
